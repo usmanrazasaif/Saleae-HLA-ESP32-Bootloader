@@ -1,0 +1,13 @@
+{
+  "name": "ESP32 Bootloader",
+  "apiVersion": "1.0.0",
+  "author": "Usman",
+  "version": "0.0.1",
+  "description": "Saleae High-Level Analyzer extension for ESP32 Serial Bootloader",
+  "extensions": {
+    "ESP32 Bootloader": {
+      "type": "HighLevelAnalyzer",
+      "entryPoint": "HighLevelAnalyzer.Hla"
+    }
+  }
+}
